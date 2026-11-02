@@ -1,0 +1,36 @@
+{
+  "model_name": "mlp_mnist",
+  "model_version": "v1",
+  "origem": "calibra-ia (Opção A)",
+  "n_features": 784,
+  "classes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "metricas": [
+    {
+      "conjunto": "validacao",
+      "acuracia": 0.9806,
+      "f1_ponderado": 0.9806,
+      "roc_auc_ovr": 0.9996
+    },
+    {
+      "conjunto": "teste",
+      "acuracia": 0.9813,
+      "f1_ponderado": 0.9813,
+      "roc_auc_ovr": 0.9996
+    }
+  ],
+  "versoes": {
+    "python": "3.14.5",
+    "scikit-learn": "1.9.1"
+  }
+}
