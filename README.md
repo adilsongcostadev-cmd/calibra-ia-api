@@ -96,7 +96,7 @@ Recebe uma imagem 28×28 achatada em **exatamente 784 inteiros de 0 a 255**.
 
 **Requisição** (exemplo abreviado; o arquivo completo está em `data/payloads/valido_digito_7.json`):
 ```json
-{ "pixels": [0, 0, 0, 0, 0, 84, 185, 159, 151, 60, 36, 0, "... 784 valores no total"] }
+{ "pixels": [0, 0, 0, 0, 0, "... 784 valores no total"] }
 ```
 
 **Resposta 200:**
