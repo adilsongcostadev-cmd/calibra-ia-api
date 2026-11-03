@@ -130,4 +130,4 @@ curl -X POST http://127.0.0.1:8000/v1/predict \
 
 ## 8. Evidências
 
-🎥 **Vídeo de apresentação:** _link do Google Drive_
+🎥 **Vídeo de apresentação:** [assistir no Google Drive](https://drive.google.com/file/d/16NdTXs50Kv_xDy6KGOei6xqczUkuddn0/view?usp=sharing)
